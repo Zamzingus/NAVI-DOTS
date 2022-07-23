@@ -1,8 +1,8 @@
 /**
  * @name NAVI-DISC
- * @author Gibbu#1211
+ * @author Gibbu#1211/Zamzingus (i edited it with a site i didnt actually do much :))
  * @version 1.0.0
- * @description A soft and comfy feel for Discord.
+ * @description Discord theme to fit with Zamzingus Navi theme
  * @invite ZHthyCw
  * @authorId 174868361040232448
  * @source https://github.com/DiscordStyles/SoftX
@@ -15,7 +15,7 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://i.imgur.com/l0i9CZs.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://raw.githubusercontent.com/Zamzingus/NAVI-DOTS/main/discbackground.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 0px; /* Blur intensity of --background-image */
   --opacity: 0; /* Opacity of overall app. | Default: .85 */
   --accent: 211,251,253; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
@@ -41,6 +41,8 @@
   --rs-streaming-color: #643da7; /* Colour for streaming status */
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+
+
 }
 
 /* Any custom CSS below here */
